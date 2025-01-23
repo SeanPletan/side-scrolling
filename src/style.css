@@ -7,8 +7,8 @@
 html,
 body
 {
-    overflow: hidden;
-    background: rgb(5, 5, 30);
+    background: darkred;
+    height: 400vh;
 }
 
 .webgl
